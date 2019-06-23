@@ -1,1 +1,1 @@
-### Advanced Login in Django
+### Classic Authentication System in Django
